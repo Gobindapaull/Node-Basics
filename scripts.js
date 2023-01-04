@@ -2,3 +2,5 @@
 
 console.log('npm scripts');
 // npm run execute
+
+// npm root -g
