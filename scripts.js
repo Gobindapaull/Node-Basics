@@ -5,4 +5,11 @@ console.log('npm scripts');
 
 // npm root -g
 
-// npm uninstall lodash webpack uuid
+// npm uninstall lodash webpack
+
+// npx -v
+
+// devDependencies uninstall
+// npm uninstall -D uuid
+
+
