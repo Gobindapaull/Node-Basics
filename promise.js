@@ -4,8 +4,12 @@ let promise = new Promise(function(resolve, reject){
 promise.then(
     (result) => {
         console.log(result);
+        getMessage();
     },
     (error) => {
         console.log(error);
     }
 )
+function getMessage() {
+    console.log('run after result');
+}
