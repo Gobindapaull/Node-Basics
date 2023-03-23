@@ -1,2 +1,3 @@
+// Generate Random Name
 const supervillains = require('supervillains')
-console.log(supervillains.random())
+console.log("Name: ", supervillains.random())
