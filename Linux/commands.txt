@@ -1,0 +1,8 @@
+1) exit or ctrl + d
+  = close the terminal
+
+2) whatis -h
+  whatis whatis = display one-line manual page descriptions
+
+3) 
+  
