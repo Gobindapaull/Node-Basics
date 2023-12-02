@@ -1,0 +1,10 @@
+const os = require('os')
+
+console.log(os.cpus()[0].model)
+console.log(os.hostname())
+console.log(os.machine())
+console.log(os.platform())
+console.log(os.uptime())
+console.log(os.userInfo())
+console.log(os.totalmem())
+console.log(os.tmpdir())
