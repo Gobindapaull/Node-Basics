@@ -4,3 +4,4 @@ $x = 12
 echo $x
 
 ctrl + a = bring the cursor at the beginning of the line
+ctrl + e = end of the line
