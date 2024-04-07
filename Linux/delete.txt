@@ -1,1 +1,2 @@
+ctrl + k = delete full line
 alt + d = forward delete
