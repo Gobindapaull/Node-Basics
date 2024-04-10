@@ -1,3 +1,11 @@
-cat
-tac
-rev
+cat demo.txt
+tac demo.txt
+rev demo.txt
+
+// first 2 lines
+head -n 2 demo.txt
+
+// last 10 lines
+tail ~/.bash_history 
+
+
