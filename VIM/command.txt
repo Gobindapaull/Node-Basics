@@ -1,5 +1,7 @@
 Vim editor
 
+sudo apt install vim
+
 i = insert mode
 
 esc > :wq + enter = save and close file
