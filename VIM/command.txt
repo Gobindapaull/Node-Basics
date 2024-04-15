@@ -7,3 +7,8 @@ i = insert mode
 esc > :wq + enter = save and close file
 
 shift + d = delete line
+
+
+//Remove folder or directory
+ rm -rf foldername1 foldername2
+
