@@ -9,6 +9,9 @@ npm -v
 npm i -g pm2
 pm2 status
 pm2 start filename.js
+pm2 stop filename.js
+pm2 delete id_number
+pm2 reload all
 
 rm *
 rm -rf *
