@@ -1,0 +1,3 @@
+# to see the linux os name and version
+cat /etc/*release 
+
