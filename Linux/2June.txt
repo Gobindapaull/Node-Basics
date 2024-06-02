@@ -1,3 +1,11 @@
 # to see the linux os name and version
 cat /etc/*release 
 
+# cpu core
+nproc
+lscpu
+uname -m
+uname -a
+cat /proc/cpuinfo
+
+history
