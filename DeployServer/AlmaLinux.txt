@@ -1,0 +1,6 @@
+cat /etc/os-release
+
+sudo dnf update -y
+sudo dnf install yarn -y
+
+rm dist -rf
