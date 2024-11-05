@@ -1,4 +1,4 @@
-const ethers = require('ethers');
+const ethers = require('ethers'); // npm i ethers@5.6.8
 require('dotenv').config();
 
 const WBNB = ""; 
