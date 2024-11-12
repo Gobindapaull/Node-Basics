@@ -9,3 +9,5 @@ npm info openai version
 
 npm info @langchain/openai version
 
+- [node docs](https://nodejs.org/en)
+
