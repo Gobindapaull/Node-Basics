@@ -1,0 +1,10 @@
+- Server Side Script = Node.js
+- Real time applications = Chatting system, online games
+- Express.js = Web framework for node.js
+- Install = VS Code, Node.js
+- node -v
+- npm -v
+- npm init -y > package.json
+- Ctrl + L = clear terminal
+- Get-ExecutionPolicy
+- Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
