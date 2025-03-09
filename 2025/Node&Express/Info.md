@@ -1,5 +1,5 @@
 - Server Side Script = Node.js
-- Real time applications = Chatting system, online games
+- Real-time applications = Chatting system, online games
 - Express.js = Web framework for node.js
 - Install = VS Code, Node.js
 - node -v
@@ -8,3 +8,10 @@
 - Ctrl + L = clear terminal
 - Get-ExecutionPolicy
 - Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+
+- npm install express nodemon
+- CRUD = Create Read Update Delete
+- "start": "node index.js"
+- "dev": "nodemon index.js"
+- npm run start
+- npm run dev
