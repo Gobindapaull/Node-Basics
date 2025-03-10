@@ -13,3 +13,8 @@ app.get("/", (req, res) => {
 app.get("/user/:id", (req, res) => {
     res.send(req.params);
 });
+
+// http://localhost:3000/search?name=John
+app.get('/search', (req, res) => {
+    res.send(req.query);
+});
