@@ -45,3 +45,11 @@ app.get("/user/:id", (req, res) => {
 app.get('/search', (req, res) => {
     res.send(req.query);
 });
+
+app.get('/error', (req, res) => {
+    res.sendStatus(404); // Not Found
+    // 200 = Ok
+    // 500 = Internal Server Error
+    // 503 = Service Unavailable
+    // 504 = Gateway Timeout
+});
