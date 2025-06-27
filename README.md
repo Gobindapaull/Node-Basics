@@ -26,3 +26,8 @@ node -v
 npm -v
 
 
+npm error solved
+
+- Set-ExecutionPolicy -Scope CurrentUser RemoteSigned
+
+
