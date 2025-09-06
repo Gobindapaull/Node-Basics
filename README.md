@@ -25,6 +25,9 @@ node -v
 
 npm -v
 
+uninstall node
+
+C:\Program Files\nodejs ----> delete the folder
 
 npm error solved
 
