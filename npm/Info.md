@@ -1,1 +1,3 @@
 - npm install -g npm@11.6.2
+- nvm install --lts
+- nvm use --lts
