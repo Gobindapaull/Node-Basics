@@ -1,0 +1,5 @@
+- new Date( ) // UTC time
+- new Date().toLocaleString( ) // Local time
+- Buffer.from("Hello World", "utf8").toString("hex")
+- 64 hex characters = 32 bytes
+- Buffer.from("48656c6c6f20576f726c64", "hex").toString("utf8")
